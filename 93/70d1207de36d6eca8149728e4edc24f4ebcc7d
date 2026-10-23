@@ -1,0 +1,21 @@
+tests/test_content_safety_check.py
+  s_4880cd16dde7d8::t_f29dde816e3e18 95-134
+astrbot/core/pipeline/content_safety_check/strategies/keywords.py
+  s_4880cd16dde7d8::t_f6d6bb8f2856c6 3-4,10-20,28-34,37-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.51-trip",
+  "base_commit_sha": "9370d1207de36d6eca8149728e4edc24f4ebcc7d",
+  "prompts": {},
+  "sessions": {
+    "s_4880cd16dde7d8": {
+      "agent_id": {
+        "tool": "kiro-desktop",
+        "id": "sess_8f6cff3d-af61-4f83-9ecc-61dfd3807f22",
+        "model": "auto"
+      },
+      "human_author": "zxc210 <2530198724@qq.com>"
+    }
+  }
+}
